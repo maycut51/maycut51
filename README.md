@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maycut51
-- 👀 I’m interested in C/C++, Rust
+- 👀 I’m interested in C/C++, Rust, running original firmware in original PCB
 - 🌱 I’m currently learning Rust
 
 
